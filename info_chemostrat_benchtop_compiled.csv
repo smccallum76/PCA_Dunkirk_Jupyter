@@ -1,0 +1,86 @@
+Sample ID,key,Lithology,Location,Formation,Kellwasser Thickness (cm),Depth Above Datum cm,Datum
+BC-HAN-16cm-1,bc_7,Grey Shale,Beaver Creek,Hanover,16.0,16.0,Base of Kellwasser
+BC-HAN-24cm-1,bc_8,Grey Shale,Beaver Creek,Hanover,16.0,24.0,Base of Kellwasser
+BC-HAN-28cm-1,bc_9,Grey Shale,Beaver Creek,Hanover,16.0,28.0,Base of Kellwasser
+BC-HAN-34cm-1,bc_10,Grey Shale,Beaver Creek,Hanover,16.0,34.0,Base of Kellwasser
+BC-HAN-35cm-1,bc_11,Grey Shale,Beaver Creek,Hanover,16.0,35.0,Base of Kellwasser
+BC-HAN-36cm-1,bc_12,Black Shale/pyrite,Beaver Creek,Hanover,16.0,36.0,Base of Kellwasser
+BC-HAN-36cm-2,bc_13,Black Shale/pyrite,Beaver Creek,Hanover,16.0,36.0,Base of Kellwasser
+BC-HAN-38cm-1,bc_14,Grey Shale,Beaver Creek,Hanover,16.0,38.0,Base of Kellwasser
+BC-HAN-41cm-1,bc_15,Grey Shale,Beaver Creek,Hanover,16.0,41.0,Base of Kellwasser
+BC-HAN-43cm-1,bc_16,Grey Shale,Beaver Creek,Hanover,16.0,43.0,Base of Kellwasser
+BC-HAN-45cm-1,bc_17,Grey Shale,Beaver Creek,Hanover,16.0,45.0,Base of Kellwasser
+BC-HAN-47cm-1,bc_18,Grey Shale,Beaver Creek,Hanover,16.0,47.0,Base of Kellwasser
+BC-HAN-49cm-1,bc_19,Grey Shale,Beaver Creek,Hanover,16.0,49.0,Base of Kellwasser
+BC-HAN-51cm-1,bc_20,Grey Shale,Beaver Creek,Hanover,16.0,51.0,Base of Kellwasser
+BC-DUK-52cm-1,bc_2,Black Shale,Beaver Creek,Dunkirk,16.0,52.0,Base of Kellwasser
+BC-DUK-62cm-1,bc_3,Black Shale,Beaver Creek,Dunkirk,16.0,62.0,Base of Kellwasser
+BC-DUK-72cm-1,bc_4,Black Shale,Beaver Creek,Dunkirk,16.0,72.0,Base of Kellwasser
+BC-DUK-82cm-1,bc_5,Black Shale,Beaver Creek,Dunkirk,16.0,82.0,Base of Kellwasser
+BC-DUK-92cm-1,bc_6,Black Shale,Beaver Creek,Dunkirk,16.0,92.0,Base of Kellwasser
+BC-DUK-102cm-1,bc_1,Black Shale,Beaver Creek,Dunkirk,16.0,102.0,Base of Kellwasser
+PTG-HAN-GS 0''-1A,pg_1,Grey Shale,Point Gratiot,Hanover,16.5,16.5,Base of Kellwasser
+PTG-HAN-GS 0''-1B,pg_2,Grey Shale,Point Gratiot,Hanover,16.5,16.5,Base of Kellwasser
+PTG-HAN-GS 0''-1C,pg_3,Grey Shale,Point Gratiot,Hanover,16.5,16.5,Base of Kellwasser
+PTG-HAN-GS 3''-1A,pg_10,Grey Shale,Point Gratiot,Hanover,16.5,24.12,Base of Kellwasser
+PTG-HAN-GS 3''-1B,pg_11,Grey Shale,Point Gratiot,Hanover,16.5,24.12,Base of Kellwasser
+PTG-HAN-GS 3''-1C,pg_12,Grey Shale,Point Gratiot,Hanover,16.5,24.12,Base of Kellwasser
+PTG-HAN-GS 4.5''-1A,pg_19,Grey Shale,Point Gratiot,Hanover,16.5,27.93,Base of Kellwasser
+PTG-HAN-GS 4.5''-1B,pg_20,Grey Shale,Point Gratiot,Hanover,16.5,27.93,Base of Kellwasser
+PTG-HAN-GS 4.5''-1C,pg_21,Grey Shale,Point Gratiot,Hanover,16.5,27.93,Base of Kellwasser
+PTG-PT GRATIOT PYRITE LOC 1A,pg_28,Black Shale/pyrite,Point Gratiot,Hanover,16.5,33.010000000000005,Base of Kellwasser
+PTG-HAN-GS 0''-2A,pg_4,Grey Shale,Point Gratiot,Hanover,16.5,16.5,Base of Kellwasser
+PTG-HAN-GS 0''-2B,pg_5,Grey Shale,Point Gratiot,Hanover,16.5,16.5,Base of Kellwasser
+PTG-HAN-GS 0''-2C,pg_6,Grey Shale,Point Gratiot,Hanover,16.5,16.5,Base of Kellwasser
+PTG-HAN-GS 3''-2A,pg_13,Grey Shale,Point Gratiot,Hanover,16.5,24.12,Base of Kellwasser
+PTG-HAN-GS 3''-2B,pg_14,Grey Shale,Point Gratiot,Hanover,16.5,24.12,Base of Kellwasser
+PTG-HAN-GS 3''-2C,pg_15,Grey Shale,Point Gratiot,Hanover,16.5,24.12,Base of Kellwasser
+PTG-HAN-GS 6'' 2A,pg_25,Grey Shale,Point Gratiot,Hanover,16.5,31.740000000000002,Base of Kellwasser
+PTG-HAN-GS 6'' 2B,pg_26,Grey Shale,Point Gratiot,Hanover,16.5,31.740000000000002,Base of Kellwasser
+PTG-HAN-GS 6'' 2C,pg_27,Grey Shale,Point Gratiot,Hanover,16.5,31.740000000000002,Base of Kellwasser
+PTG-HAN-GS 0''-3A,pg_7,Grey Shale,Point Gratiot,Hanover,16.5,16.5,Base of Kellwasser
+PTG-HAN-GS 0''-3B,pg_8,Grey Shale,Point Gratiot,Hanover,16.5,16.5,Base of Kellwasser
+PTG-HAN-GS 0''-3C,pg_9,Grey Shale,Point Gratiot,Hanover,16.5,16.5,Base of Kellwasser
+PTG-HAN-GS 3''-3A,pg_16,Grey Shale,Point Gratiot,Hanover,16.5,24.12,Base of Kellwasser
+PTG-HAN-GS 3''-3B,pg_17,Grey Shale,Point Gratiot,Hanover,16.5,24.12,Base of Kellwasser
+PTG-HAN-GS 3''-3C,pg_18,Grey Shale,Point Gratiot,Hanover,16.5,24.12,Base of Kellwasser
+PTG-HAN-GS 5.75''-3A,pg_22,Grey Shale,Point Gratiot,Hanover,16.5,31.105,Base of Kellwasser
+PTG-HAN-GS 5.75''-3B,pg_23,Grey Shale,Point Gratiot,Hanover,16.5,31.105,Base of Kellwasser
+PTG-HAN-GS 5.75''-3C,pg_24,Grey Shale,Point Gratiot,Hanover,16.5,31.105,Base of Kellwasser
+SC-HAN-0''-1A,sc_15,Grey Shale,Scott Creek,Hanover,18.0,18.0,Base of Kellwasser
+SC-HAN-0''-1B,sc_16,Grey Shale,Scott Creek,Hanover,18.0,18.0,Base of Kellwasser
+SC-HAN-0''-1C,sc_17,Grey Shale,Scott Creek,Hanover,18.0,18.0,Base of Kellwasser
+SC-HAN-3''-1C,sc_26,Grey Shale,Scott Creek,Hanover,18.0,25.62,Base of Kellwasser
+SC-HAN-3''-1A,sc_24,Grey Shale,Scott Creek,Hanover,18.0,25.62,Base of Kellwasser
+SC-HAN-3''-1B,sc_25,Grey Shale,Scott Creek,Hanover,18.0,25.62,Base of Kellwasser
+SC-HAN-6''-1B,sc_31,Grey Shale,Scott Creek,Hanover,18.0,33.24,Base of Kellwasser
+SC-HAN-6''-1A,sc_30,Grey Shale,Scott Creek,Hanover,18.0,33.24,Base of Kellwasser
+SC-HAN-6''-1C,sc_32,Grey Shale,Scott Creek,Hanover,18.0,33.24,Base of Kellwasser
+SC-HAN-6.5''-1A,sc_27,Black Shale,Scott Creek,Hanover,18.0,34.510000000000005,Base of Kellwasser
+SC-HAN-6.5''-1B,sc_28,Black Shale,Scott Creek,Hanover,18.0,34.510000000000005,Base of Kellwasser
+SC-HAN-6.5''-1C,sc_29,Black Shale,Scott Creek,Hanover,18.0,34.510000000000005,Base of Kellwasser
+SC-HAN-8.375''-1A,sc_33,Black Shale/pyrite,Scott Creek,Hanover,18.0,39.2725,Base of Kellwasser
+SC-HAN-8.375''-1B,sc_34,Black Shale/pyrite,Scott Creek,Hanover,18.0,39.2725,Base of Kellwasser
+SC-HAN-9''-1A,sc_35,Grey Shale,Scott Creek,Hanover,18.0,40.86,Base of Kellwasser
+SC-HAN-10''-1A,sc_18,Grey Shale,Scott Creek,Hanover,18.0,43.4,Base of Kellwasser
+SC-HAN-11''-1A,sc_21,Grey Shale,Scott Creek,Hanover,18.0,45.94,Base of Kellwasser
+SC-DUK-12''-1A,sc_1,Black Shale,Scott Creek,Dunkirk,18.0,48.480000000000004,Base of Kellwasser
+SC-DUK-12''-1A Basal,sc_2,Black Shale,Scott Creek,Dunkirk,18.0,48.480000000000004,Base of Kellwasser
+SC-DUK-17.5''-1A,sc_6,Black Shale,Scott Creek,Dunkirk,18.0,62.45,Base of Kellwasser
+SC-DUK-23.5''-1A,sc_9,Black Shale,Scott Creek,Dunkirk,18.0,77.69,Base of Kellwasser
+SC-DUK-30''-1A,sc_12,Black Shale,Scott Creek,Dunkirk,18.0,94.2,Base of Kellwasser
+SC-HAN-9''-1B,sc_36,Grey Shale,Scott Creek,Hanover,18.0,40.86,Base of Kellwasser
+SC-HAN-10''-1B,sc_19,Grey Shale,Scott Creek,Hanover,18.0,43.4,Base of Kellwasser
+SC-HAN-11''-1B,sc_22,Grey Shale,Scott Creek,Hanover,18.0,45.94,Base of Kellwasser
+SC-DUK-12''-1B,sc_3,Black Shale,Scott Creek,Dunkirk,18.0,48.480000000000004,Base of Kellwasser
+SC-DUK-12''-1B Basal,sc_4,Black Shale,Scott Creek,Dunkirk,18.0,48.480000000000004,Base of Kellwasser
+SC-DUK-17.5''-1B,sc_7,Black Shale,Scott Creek,Dunkirk,18.0,62.45,Base of Kellwasser
+SC-DUK-23.5''-1B,sc_10,Black Shale,Scott Creek,Dunkirk,18.0,77.69,Base of Kellwasser
+SC-DUK-30''-1B,sc_13,Black Shale,Scott Creek,Dunkirk,18.0,94.2,Base of Kellwasser
+SC-HAN-9''-1C,sc_37,Grey Shale,Scott Creek,Hanover,18.0,40.86,Base of Kellwasser
+SC-HAN-10''-1C,sc_20,Grey Shale,Scott Creek,Hanover,18.0,43.4,Base of Kellwasser
+SC-HAN-11''-1C,sc_23,Grey Shale,Scott Creek,Hanover,18.0,45.94,Base of Kellwasser
+SC-DUK-12''-1C Basal,sc_5,Black Shale,Scott Creek,Dunkirk,18.0,48.480000000000004,Base of Kellwasser
+SC-DUK-17.5''-1C,sc_8,Black Shale,Scott Creek,Dunkirk,18.0,62.45,Base of Kellwasser
+SC-DUK-23.5''-1C,sc_11,Black Shale,Scott Creek,Dunkirk,18.0,77.69,Base of Kellwasser
+SC-DUK-30''-1C,sc_14,Black Shale,Scott Creek,Dunkirk,18.0,94.2,Base of Kellwasser
