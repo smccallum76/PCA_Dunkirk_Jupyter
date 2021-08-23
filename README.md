@@ -1,8 +1,8 @@
 # Dunkirk Critical Minerals Project: PCA Walkthrough
 
-The purpose of this Jupyter Notebook is to provide code-based example of the principal components analysis (PCA) applied to the existing Dunkirk X-ray Fluorescence (XRF) dataset.  This example represents an edited version of the full analysis found on the Wildlands Research [statistics dashboard](https://dunkirk-cm.herokuapp.com/pca). 
+The purpose of this Jupyter Notebook is to provide a code-based example of the principal components analysis (PCA) applied to the existing Dunkirk X-ray Fluorescence (XRF) dataset.  This example represents an edited version of the full analysis found on the Wildlands Research [statistics dashboard](https://dunkirk-cm.herokuapp.com/pca). 
 
-In an effort to replicate the actual dashboard as closely as possible, a module called JupyterDash was used.  JupyterDash allows the script to be run as though it is a web-based application using the local machine as a server.  This approach does result in a Known Issue described below.  
+In an effort to replicate the actual dashboard as closely as possible, a module called JupyterDash was used.  JupyterDash allows the script to be run as though it is a web-based application using the local machine as a server.  This approach does result in a known issue described below.  
 
 There are two methods for running the notebook, using [Google Colab](https://colab.research.google.com) or using [Jupyter Notebook](https://jupyter.org/).  The easiest of the two methods is to use Google Colab as this method does not require the user to install Jupyter or to load dependencies.  Both methods will be described below.
 
@@ -19,9 +19,9 @@ Colab provides a Python environment that is preloaded with most of the common Py
 ## Run Notebook using Jupyter Notebook
 
 This notebook was originally developed using Jupyter Notebook.  If this method is selected, then it is assumed the user has experience setting up a virtual environment and loading the dependencies necessary to execute the code.  A **requirements.txt** file is included within this Git repository that can be used to install the necessary modules. The recommended approach when using this method is as follows:
-1. Clone this repo locally.
+1. Clone this repository locally.
 2. Using [Anaconda](https://www.anaconda.com/), or your chosen platform, create a virtual environment, and install the dependencies defined in **requirements.txt**. 
-3. Activate this environment (form Anaconda or command line) and open Jupyter Notebooks.
+3. Activate this environment (from Anaconda or command line) and open Jupyter Notebooks.
 4. Navigate to the cloned repository and open the notebook **Dunkirk_PCA_jupyter.ipynb**.
 
 ### One Warning/Known Issue
